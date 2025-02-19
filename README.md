@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diannamvaughn
 - 👀 I’m interested in building creative programs
-- 🌱 I’m currently learning the basics of Python and HTML
+- 🌱 I’m currently learning the basics of Java
 - 💞️ I’m looking to collaborate on simple projects
 
 <!---
